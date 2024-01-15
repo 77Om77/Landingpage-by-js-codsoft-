@@ -1,0 +1,166 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.om {
+    height: 80vh;
+    width: 99vw;
+    background-color: rgba(66, 92, 81, 255);
+}
+
+#oky {
+    background: transparent !important;
+    background-position-x: 20% !important;
+    height: 10vh;
+}
+
+#omg {
+    color: white !important;
+    font-size: 150%;
+}
+
+#omg:hover {
+    transition: 1s;
+    border-bottom: 3px solid orange !important;
+    color: white !important;
+
+}
+
+#okk {
+    color: white !important;
+    font-size: 200%;
+    padding-left: 4% !important;
+}
+
+#po {
+    display: flex;
+    justify-content: space-evenly !important;
+    width: 50vw !important;
+}
+
+.aa {
+    color: white;
+    font-size: 70px;
+    /* padding-left: 1% !important; */
+}
+
+#aaa {
+    height: 80vh;
+    width: 40vw;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.exa {
+    color: white;
+    padding-left: 20%;
+}
+
+#horse {
+    border-radius: 20px;
+    height: 45px;
+    width: 115px;
+
+}
+
+#horsee {
+    border-radius: 20px;
+    height: 45px;
+    width: 115px;
+    border: 1px solid white;
+    background: transparent !important;
+    color: white !important;
+}
+
+#patil {
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    padding-bottom: 5%;
+}
+
+.OMYENPURE {
+    height: 100vh;
+    width: 99vw;
+    background-color: #f0f2f1;
+}
+
+#o77 {
+    height: 100vh;
+
+}
+
+.osk {
+    font-size: 20px !important;
+}
+
+#mm {
+    width: 25vw !important;
+    padding-left: 10%;
+
+
+}
+
+#oppp {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+
+}
+
+.se3 {
+    padding-bottom: 7%;
+    padding-left: 10%;
+}
+
+#shot {
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    padding-right: 2%;
+    padding-bottom: 3%;
+}
+
+.OMKYENPURE {
+    height: 100vh;
+    width: 99vw;
+    background-color: #f0f2f1;
+}
+
+#rooop {
+    height: 100vh;
+    width: 90vw !important;
+     background-color: #f0f2f1; 
+     /* background-color: aqua;  */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.card{
+    background-color:transparent;
+     border: 1px solid #f0f2f1; 
+}
+.sub{
+    margin-top: 6%;
+}
+#ora{
+    width: 10vw;
+}
+#horseee {
+    border-radius: 20px;
+    height: 45px;
+    width: 115px;
+    background-color: black !important;
+    color: white;
+    border: 1px solid black !important;
+
+}
